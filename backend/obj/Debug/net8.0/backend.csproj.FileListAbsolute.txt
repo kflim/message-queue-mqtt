@@ -33,3 +33,11 @@ C:\Users\redbu\message-queue-mqtt\backend\obj\Debug\net8.0\refint\backend.dll
 C:\Users\redbu\message-queue-mqtt\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\redbu\message-queue-mqtt\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\redbu\message-queue-mqtt\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\redbu\message-queue-mqtt\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
